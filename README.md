@@ -1,7 +1,11 @@
 # computer-_science_tilakkumar
-## this is repository for assignments
+## This is repository for assignments
 
-<p> this documents  illustrate  the fundamentas principles of two variables, to creat a password and for ask to numbers <p>
+<p> 1. This documents  illustrate  the fundamentas principles of two variables <p>
+<p> 2. Creat a password <p>
+<p> 3. Ask two numbers, if both are even or odd or one of the number is even <p>
+<p> 4. Calculate the sum of positive number <p>
+<p> 5. Program  that can be use as gussing games <p>
 
 
-<i> thank you <i>
+<i> * Thank you * <i>
